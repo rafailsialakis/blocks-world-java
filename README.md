@@ -9,7 +9,6 @@ This project provides a solution to the Blocks World problem using informed and 
     - [Depth-First Search (DFS)](#depth-first-search-dfs)
     - [Best-First Search](#best-first-search)
     - [A* Search](#a-search)
-3. [Snapshots](#snapshots)
 
 ---
 
